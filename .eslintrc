@@ -1,0 +1,29 @@
+{
+  "extends": "rallycoding",
+  "rules":{
+      "arrow-body-style": 0,
+      "camelcase": 0,
+      "global-require": 0,
+      "prefer-tempalte": 0
+   }
+}
+
+# Eslint configuration
+# npm install --save-dev eslint-config-rallycoding
+
+# Redux Libraries
+# npm install --save redux react-redux
+# Redux asunchors actions library
+# npm install --save redux-thunk
+
+# Firebase
+# npm install --save firebase
+
+# navigation
+# npm install --save react-native-router-flux@3.35.0
+# npm install --save react-navigation
+
+# Native Base
+# npm install native-base --save
+# npm install @expo/vector-icons --save
+# react-native link
